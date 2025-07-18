@@ -37,3 +37,9 @@ out/
 .DS_Store
 
 src/main/resources/static/*
+src/main/frontend/build
+/src/main/frontend/node_modules/
+/.gradle/
+/.idea/
+/build/
+/gradle/
