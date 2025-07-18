@@ -43,3 +43,5 @@ src/main/frontend/build
 /.idea/
 /build/
 /gradle/
+/gradlew
+/gradlew.bat
